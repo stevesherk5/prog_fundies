@@ -27,3 +27,21 @@ blockchain = [
 # Anthony's KelloggCoin balance is 2650
 
 # 👇👇👇 Your code HERE 👇👇👇
+
+# Find how much KelloggCoin Ben has 
+
+ben_coin=0
+index=0
+puts blockchain[0]"#{from_user}"
+
+# loop do 
+#   blockchain[index][0]
+
+#   index = index + 1
+  
+#   # breaks loop if I've gone through the whole blockchain array 
+#   if index = blockchain.size
+#     break
+#   end 
+# end 
+
